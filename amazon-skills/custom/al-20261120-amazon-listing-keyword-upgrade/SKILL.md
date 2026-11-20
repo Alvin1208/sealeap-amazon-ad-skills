@@ -1,9 +1,9 @@
 ---
-name: sealeap-amazon-listing-keyword-upgrade
+name: al-20261120-amazon-listing-keyword-upgrade
 description: 用多宝鱼 MCP 实时读取现有亚马逊 Listing，对标指定竞品，以本品真实参数和用户词表全面改写标题、Highlight、五点、描述及后台词。适用于要求接近各字段实际上限、关键词加粗供审核，并在明确授权后发布核验的任务。
 ---
 
-# 亚马逊 Listing 关键词全面升级
+# AL-20261120-亚马逊Listing关键词全面升级
 
 把用户指定的单款商品改写成目标站点语言。核心偏好：**优先使用用户词表，在真实、相关、通顺的前提下，将可自由扩写的文案字段写到接近最新有效限制；先完整审核，再按明确授权发布。**
 
@@ -100,5 +100,5 @@ description: 用多宝鱼 MCP 实时读取现有亚马逊 Listing，对标指定
 
 ## 调用方式
 
-“使用 `$sealeap-amazon-listing-keyword-upgrade`。店铺和站点为我指定的范围，目标ASIN及竞品另附；按本品参数和我的关键词表，核实最新限制，尽量接近各文案框上限，关键词加粗，先给完整稿审核。”
+“使用 `$al-20261120-amazon-listing-keyword-upgrade`。店铺和站点为我指定的范围，目标ASIN及竞品另附；按本品参数和我的关键词表，核实最新限制，尽量接近各文案框上限，关键词加粗，先给完整稿审核。”
 
